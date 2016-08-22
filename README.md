@@ -1,5 +1,7 @@
 # CMakeBoilerplate
-`mkdir build`
-`cd build`
-`cmake ../CMakeBoilerplate`
-`make`
+```
+mkdir build
+cd build
+cmake ../CMakeBoilerplate
+make
+```
